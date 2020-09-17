@@ -37,14 +37,6 @@ SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架�
  - 支持 Header 和 Footer 交换混用
  - 支持AndroidX
 
-## 每天领红包
-
-最近开通了支付宝商家，生成了个红包二维码，经常用支付宝的童鞋可有扫码领优惠红包，扫码只会拿红包，不会有任何损失，每天都可以扫码哦！
-
-![支付宝红包](https://github.com/scwang90/MultiWaveHeader/blob/master/art/pay_alipay_red_packet.png?raw=true)
-
-> 你也可以在支付宝中直接搜索 **553866294** 来获取红包。如果得到的是花呗红包，也不用失望。如果你经常使用信用卡的话那么使用花呗红包非常适合你，它也和信用卡一样先消费后还款，关键是每天都能扫红包省钱！
-
 ## 传送门
 
  - [属性文档](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_property.md)
@@ -253,14 +245,6 @@ SmartRefreshLayout 没有使用到：序列化、反序列化、JNI、反射，�
 ## 赞赏
 
 如果你喜欢 SmartRefreshLayout 的设计，感觉 SmartRefreshLayout 帮助到了你，可以点右上角 "Star" 支持一下 谢谢！ ^_^
-你也还可以扫描下面的二维码~ 请作者喝一杯咖啡。
-
-![](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/pay_alipay.jpg?raw=true) ![](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/pay_wxpay.jpg?raw=true) ![](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/pay_tencent.jpg?raw=true)
-
-> 如果希望捐赠之后能获得相关的帮助，可以选择加入下面的付费群来取代普通捐赠，付费群可以直接获得作者的直接帮助，与问题反馈。
-
-如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用
-[捐赠列表](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_donationlist.md)
 
 #### 友情链接
 [github/faith-hb/WidgetCase](https://github.com/faith-hb/WidgetCase)  
@@ -278,31 +262,6 @@ SmartRefreshLayout 没有使用到：序列化、反序列化、JNI、反射，�
 [github/RainliFu](https://github.com/RainliFu)  
 [github/sugarya](https://github.com/sugarya)  
 [github/stormzhang](https://github.com/stormzhang)
-
-## 讨论
-
-### QQ解决群 - 602537182 （付费）
-#### 进群须知
-自开群以来，还是有很多的朋友提出了很多问题，我也解决了很多问题，其中有大半问题是本库的Bug导致，也有些是使用者项目本
-身的环境问题，这花费了我大量的时间，经过我的观察和测试，到目前为止，本库的bug已经越来越少，当然不能说完全没有，但是
-已经能满足很大部分项目的需求。所以从现在起，我做出一个决定：把之前的讨论群改成解决群，并开启付费入群功能，专为解决大
-家在使用本库时遇到的问题，不管是本库bug还是，特殊的项目环境导致（包含项目本身的bug）。
-我也有自己的工作和娱乐时间，只有大家理解和支持我，我才能专心的为大家解决问题。不过用担心，我已经建立了另一个可以免费
-进入的QQ讨论群。
-
-### QQ讨论群 - 914275312 （新） 477963933 （满）  538979188 （满）
-#### 进群须知
-这个群，免费进入，大家可以相互讨论本库的相关使用和出现的问题，群主也会在里面解决问题，如果提出的问题，群成员不能帮助
-解决，需要群主解决，但是要花费群主五分钟以上的时间（本库Bug除外），群主将不会解决这个问题，如果项目紧急，请付费进入解
-决群解决（不过注意，付费群中群主会很认真很努力的解决问题，但也不能保证已经能完美解决）或者转换使用其他的刷新库。
-
-<!-- 本群专为 【Android智能下拉刷新框架-SmartRefreshLayout】开设，请不要讨论安卓和下拉刷新之外的内容。本群中后期会改为收费解决群，并再开启免费讨论群，还没进群的童鞋赶紧~ -->
-#### 温馨提示
-加入群的答案在本文档中可以找到~
-
-## 其他作品
-[MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader)  
-[诗和远方](http://android.myapp.com/myapp/detail.htm?apkName=com.poetry.kernel)
 
 ## 感谢
 [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html)  
